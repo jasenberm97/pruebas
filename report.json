@@ -1,0 +1,23 @@
+[
+    {
+        "hash": "6d261d2fdeb54f82678a9c202003b5c5",
+        "description": "GenericAPIKey",
+        "severity": "Warning",
+        "file": "prueba.php",
+        "line": 991
+    },
+    {
+        "hash": "58dcd67d7e5553cd0796570c1c6c1fe4",
+        "description": "Highentropy",
+        "severity": "Warning",
+        "file": ".github/workflows/sonarqube.yml",
+        "line": 47
+    },
+    {
+        "hash": "8e40a213417f2767f2106e41fe6be9e4",
+        "description": "Ensure top-level permissions are not set to write-all",
+        "severity": "Warning",
+        "file": ".github/workflows/betterscan.yml",
+        "line": 0
+    }
+]
