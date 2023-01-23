@@ -14,6 +14,27 @@
         "line": 47
     },
     {
+        "hash": "16da5c68a36dfdea49dc5ca2c4231a36",
+        "description": "idor",
+        "severity": "Warning",
+        "file": "OPCENTRAL/GeneraCodigo.php",
+        "line": 84
+    },
+    {
+        "hash": "53db42b62b4273469f3ee9cb4095013e",
+        "description": "header_injection",
+        "severity": "Warning",
+        "file": "OPCENTRAL/mant_autoriza_reg.php",
+        "line": 8
+    },
+    {
+        "hash": "123dd96c8c1cd9d5778a772a540b72d7",
+        "description": "xss",
+        "severity": "Warning",
+        "file": "OPCENTRAL/GeneraCodigo.php",
+        "line": 5
+    },
+    {
         "hash": "8e40a213417f2767f2106e41fe6be9e4",
         "description": "Ensure top-level permissions are not set to write-all",
         "severity": "Warning",
